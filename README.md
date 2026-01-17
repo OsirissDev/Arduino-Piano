@@ -3,13 +3,23 @@
 
 Materials:
 1 Arduino Uno
+
 1 10uf capacitor (Decoupling, Can be substituted)
+
 12 pushbuttons
+
 2 74hc165 shift registers
+
 12 18k resistors (Pull ups, Flexible value)
+
 1 100 resistor
+
 1 16 ohm speaker
+
+1 Generic diode
+
 Jumper wires
+
 Breadboard
 
 
